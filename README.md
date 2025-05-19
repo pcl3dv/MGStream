@@ -27,9 +27,9 @@
 
 # Comparasion and Free view synthesis
 
-https://github.com/user-attachments/assets/0cdd3f0c-efbf-415b-be80-252fb4a5f121
-
 https://github.com/user-attachments/assets/09861fcc-18b0-4eae-9d7d-f298f3bdc181
+
+https://github.com/user-attachments/assets/0cdd3f0c-efbf-415b-be80-252fb4a5f121
 
 # Abstract
 <div>
