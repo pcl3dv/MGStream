@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1>MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction </h1>
 
 <div>
