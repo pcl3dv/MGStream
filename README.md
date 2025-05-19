@@ -21,11 +21,12 @@
 
 ### [Paper]() | [Project]() | Video | Code ( is coming soon... )
 
-# Comparsion with 3DGStream
-
 </div>
 ![image](assets/teaser_figure.png)
 <br>
+
+# Comparsion with 3DGStream
+https://github.com/user-attachments/assets/0cdd3f0c-efbf-415b-be80-252fb4a5f121
 
 # Abstract
 <div>
