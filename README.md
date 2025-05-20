@@ -4,10 +4,10 @@
 
 <div>
     Zhenyu Bao<sup>1</sup>&emsp;
-    Qing Li<sup>2, *</sup>&emsp;
-    Guibiao Liao<sup>1, *</sup>&emsp;
+    Qing Li<sup>2</sup>&emsp;
+    Guibiao Liao<sup>1</sup>&emsp;
     Zhongyuan Zhao<sup>1</sup>&emsp;
-    Kanglin Liu<sup>2</sup>
+    Kanglin Liu<sup>2, *</sup>
 </div>
 
 <div>
