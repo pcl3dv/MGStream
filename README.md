@@ -19,7 +19,7 @@
     <sup>*</sup>corresponding author
 </div>
 
-### [Paper]() | [Project](https://zhenybao.github.io/MGStream/) | Video | Code ( is coming soon... )
+### [Paper]() | [Project](https://zhenybao.github.io/MGStream/)  | Code 
 
 </div>
 
