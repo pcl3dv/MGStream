@@ -19,7 +19,7 @@
     <sup>*</sup>corresponding author
 </div>
 
-### [Paper]() | [Project](https://zhenybao.github.io/MGStream/)  | Code 
+### [Paper](https://arxiv.org/abs/2505.13839) | [Project](https://zhenybao.github.io/MGStream/)  | Code 
 
 </div>
 
@@ -44,4 +44,13 @@ https://github.com/user-attachments/assets/0cdd3f0c-efbf-415b-be80-252fb4a5f121
 
 Cite as below if you find this repository is helpful to your project:
 ```
+@misc{bao2025mgstreammotionaware3dgaussian,
+      title={MGStream: Motion-aware 3D Gaussian for Streamable Dynamic Scene Reconstruction}, 
+      author={Zhenyu Bao and Qing Li and Guibiao Liao and Zhongyuan Zhao and Kanglin Liu},
+      year={2025},
+      eprint={2505.13839},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2505.13839}, 
+}
 ```
